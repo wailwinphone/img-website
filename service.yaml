@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: farm-website
+  name: img-website
 spec:
   selector:
-    app: farm-website
+    app: img-website
   ports:
   - port: 80
     targetPort: 80

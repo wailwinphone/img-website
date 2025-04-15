@@ -57,7 +57,7 @@ data:
       </style>
     </head>
     <body>
-      <h1>Farm Animals Gallery</h1>
+      <h1>All Animals</h1>
       <div class="animals">
         <div class="animal-card">
           <img src="/images/tiger.jpg" alt="Tiger">

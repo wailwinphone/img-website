@@ -65,7 +65,7 @@ data:
           <p>Domesticated animal that provides milk and meat. Known for their gentle nature and important role in agriculture.</p>
         </div>
         <div class="animal-card">
-          <img src="/images/chicken.jpeg" alt="Chicken">
+          <img src="http://192.168.49.2:30180/images/chicken.jpeg" alt="Chicken">
           <h2>Chicken</h2>
           <p>Common farm bird that provides eggs and meat. They're social animals with complex hierarchical structures.</p>
         </div>

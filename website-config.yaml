@@ -60,7 +60,7 @@ data:
       <h1>All Animals</h1>
       <div class="animals">
         <div class="animal-card">
-          <img src="/images/tiger.jpg" alt="Tiger">
+          <img src="/images/cow.jpg" alt="Tiger">
           <h2>Cow</h2>
           <p>Domesticated animal that provides milk and meat. Known for their gentle nature and important role in agriculture.</p>
         </div>
@@ -70,7 +70,7 @@ data:
           <p>Common farm bird that provides eggs and meat. They're social animals with complex hierarchical structures.</p>
         </div>
         <div class="animal-card">
-          <img src="/images/lion.jpg" alt="Lion">
+          <img src="/images/horse.jpg" alt="Lion">
           <h2>Horse</h2>
           <p>Raised for wool, milk, and meat. Sheep are gentle herbivores with impressive memory for faces.</p>
         </div>

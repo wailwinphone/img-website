@@ -64,11 +64,6 @@ data:
           <h2>Tiger</h2>  <!-- Changed from Cow to Tiger -->
           <p>Powerful carnivore and the largest cat species. Known for their distinctive orange coat with black stripes.</p>
         </div>
-        <div class="animal-card">
-          <img src="/images/lion.jpg" alt="Lion">
-          <h2>Lion</h2>  <!-- Changed from Horse to Lion -->
-          <p>Large carnivorous feline that lives in prides. Known as the 'king of the jungle'.</p>
-        </div>
       </div>
     </body>
     </html>

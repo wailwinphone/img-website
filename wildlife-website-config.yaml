@@ -57,22 +57,17 @@ data:
       </style>
     </head>
     <body>
-      <h1>Farm Animals</h1>
+      <h1>Wild Animals</h1>
       <div class="animals">
         <div class="animal-card">
-          <img src="/images/cow.jpg" alt="Cow">
-          <h2>Cow</h2>
-          <p>Domesticated animal that provides milk and meat. Known for their gentle nature and important role in agriculture.</p>
+          <img src="/images/tiger.jpg" alt="Tiger">
+          <h2>Tiger</h2>  <!-- Changed from Cow to Tiger -->
+          <p>Powerful carnivore and the largest cat species. Known for their distinctive orange coat with black stripes.</p>
         </div>
         <div class="animal-card">
-          <img src="/images/chicken.jpeg" alt="Chicken">
-          <h2>Chicken</h2>
-          <p>Common farm bird that provides eggs and meat. They're social animals with complex hierarchical structures.</p>
-        </div>
-        <div class="animal-card">
-          <img src="/images/horse.jpg" alt="Horse">
-          <h2>Horse</h2>
-          <p>Raised for wool, milk, and meat. Sheep are gentle herbivores with impressive memory for faces.</p>
+          <img src="/images/lion.jpg" alt="Lion">
+          <h2>Lion</h2>  <!-- Changed from Horse to Lion -->
+          <p>Large carnivorous feline that lives in prides. Known as the 'king of the jungle'.</p>
         </div>
       </div>
     </body>

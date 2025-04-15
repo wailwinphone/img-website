@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: website-html
   labels:
-    app: animal-website
+    app: farm-website
     type: farm  
 data:
   index.html: |

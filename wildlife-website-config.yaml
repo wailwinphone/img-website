@@ -4,7 +4,7 @@ metadata:
   name: website-html
   labels:
     app: img-website
-    type: farm  
+    type: wild  
 data:
   index.html: |
     <!DOCTYPE html>

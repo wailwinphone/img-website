@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: farm-website
+  name: img-website
   labels:
-    app: farm-website
+    app: img-website
     type: farm  
 spec:
   replicas: 2
   selector:
     matchLabels:
-      app: farm-website
+      app: img-website
   template:
     metadata:
       labels:
-        app: farm-website
+        app: img-website
     spec:
       containers:
       - name: nginx
@@ -32,4 +32,4 @@ spec:
           name: website-html
       - name: images-volume
         persistentVolumeClaim:
-          claimName: animal-images-pvc
+          claimName: farm-images-pvc

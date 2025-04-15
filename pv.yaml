@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: PersistentVolume
 metadata:
-  name: animal-images-pv
+  name: farm-images-pv
 spec:
   capacity:
     storage: 50Mi
@@ -15,7 +15,7 @@ spec:
     required:
       nodeSelectorTerms:
       - matchExpressions:
-        - key: kubernetes.io/hostname=minikube
+        - key: kubernetes.io/hostname
           operator: In
           values:
           - minikube

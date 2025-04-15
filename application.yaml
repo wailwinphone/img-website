@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: farm-website
+  name: img-website
   namespace: argocd
 spec:
   project: default

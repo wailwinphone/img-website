@@ -4,7 +4,7 @@ metadata:
   name: img-website
   labels:
     app: img-website
-    type: wild  
+    type: farm  
 spec:
   replicas: 2
   selector:

@@ -70,8 +70,8 @@ data:
           <p>Common farm bird that provides eggs and meat. They're social animals with complex hierarchical structures.</p>
         </div>
         <div class="animal-card">
-          <img src=images/horse.jpg" alt="Sheep">
-          <h2>Sheep</h2>
+          <img src="images/horse.jpg" alt="Horse">
+          <h2>Horse</h2>
           <p>Raised for wool, milk, and meat. Sheep are gentle herbivores with impressive memory for faces.</p>
         </div>
       </div>

@@ -4,9 +4,9 @@ metadata:
   name: img-website
   labels:
     app: img-website
-    type: wild  
+    type: farm  
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: img-website
@@ -22,10 +22,9 @@ spec:
         - containerPort: 80
         volumeMounts:
         - name: website-html
-          mountPath: /usr/share/nginx/html/index.html
-          subPath: index.html
+          mountPath: /usr/share/nginx/html
         - name: images-volume
-          mountPath: /usr/share/nginx/html/images/
+          mountPath: /usr/share/nginx/html/images
       volumes:
       - name: website-html
         configMap:

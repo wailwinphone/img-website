@@ -23,9 +23,8 @@ spec:
         volumeMounts:
         - name: website-html
           mountPath: /usr/share/nginx/html
-          
         - name: images-volume
-          mountPath: /usr/share/nginx/html/images/
+          mountPath: /usr/share/nginx/html/images
       volumes:
       - name: website-html
         configMap:

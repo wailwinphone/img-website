@@ -23,7 +23,7 @@ spec:
         volumeMounts:
         - name: website-html
           mountPath: /usr/share/nginx/html
-          subPath: index.html
+          
         - name: images-volume
           mountPath: /usr/share/nginx/html/images/
       volumes:

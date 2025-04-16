@@ -3,8 +3,7 @@ kind: Deployment
 metadata:
   name: img-website
   labels:
-    app: img-website
-    type: wild  
+    app: img-website 
 spec:
   replicas: 1
   selector:

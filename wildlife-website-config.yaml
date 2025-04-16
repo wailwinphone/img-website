@@ -57,17 +57,8 @@ data:
       </style>
     </head>
     <body>
-      <h1>All Animals</h1>
+      <h1>Farm Animals</h1>
       <div class="animals">
-        <div class="animal-card">
-          <img src="/images/tiger.jpg" alt="Tiger">
-          <h2>Tiger</h2>  <!-- Changed from Cow to Tiger -->
-          <p>Powerful carnivore and the largest cat species. Known for their distinctive orange coat with black stripes.</p>
-        </div>
-          <div class="animal-card">
-          <img src="/images/lion.jpg" alt="Lion">
-          <h2>Lion</h2>
-          <p>The lion is a majestic apex predator, known as the 'king of the jungle' for its strength and iconic mane.</p>
         <div class="animal-card">
           <img src="/images/cow.jpg" alt="Cow">
           <h2>Cow</h2>

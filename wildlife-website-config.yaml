@@ -60,8 +60,8 @@ data:
       <h1>Farm Animals</h1>
       <div class="animals">
         <div class="animal-card">
-          <img src="/images/toy.jpeg" alt="Cow">
-          <h2>Toy</h2>
+          <img src="/images/cow.jpg" alt="Cow">
+          <h2>Cow</h2>
           <p>Domesticated animal that provides milk and meat. Known for their gentle nature and important role in agriculture.</p>
         </div>
         <div class="animal-card">
